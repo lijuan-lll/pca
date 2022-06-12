@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">pca_demo529_2</string>
+    <string name="title_name">PCA算法demo</string>
+    <string name="K_value">K值：</string>
+    <string name="set_K_value">请输入K值</string>
+    <string name="op">处理</string>
+
+
+
+</resources>
