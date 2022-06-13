@@ -38,7 +38,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this,String.valueOf(K),Toast.LENGTH_SHORT).show();
                 initPython();
                 callPythonCode();
-
                 Intent intent = new Intent();
                 intent.setClass(MainActivity.this,TestActivity.class);
                 intent.putExtra("resultImage_filename_all",resultImage_filename_all);
